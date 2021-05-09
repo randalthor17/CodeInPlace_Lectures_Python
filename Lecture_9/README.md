@@ -17,3 +17,9 @@ Also if you want to run the unmodified modules, replace that line with
 ```python
 from simpleimage.simpleimage import SimpleImage
 ```
+
+or if running from the root folder,
+
+```python
+from Lecture_9.simpleimage.simpleimage import SimpleImage
+```
