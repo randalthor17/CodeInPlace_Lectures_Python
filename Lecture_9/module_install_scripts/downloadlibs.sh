@@ -1,0 +1,1 @@
+python -m pip install simpleimage Pillow matplotlib
