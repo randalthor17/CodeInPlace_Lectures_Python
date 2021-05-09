@@ -15,5 +15,5 @@ from Lecture_9.simpleimage.simpleimage_modded import SimpleImage
 Also if you want to run the unmodified modules, replace that line with
 
 ```python
-from simpleimage.simpleimage_modded import SimpleImage
+from simpleimage.simpleimage import SimpleImage
 ```
